@@ -1,2 +1,3 @@
 # Koro
-new repo
+new repository 
+*This is my first commit*
