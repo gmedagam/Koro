@@ -1,4 +1,4 @@
 # Koro
 new repository 
-/n *This is my first commit*
-/n This is my branch
+*This is my first commit*
+ This is my branch
